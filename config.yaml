@@ -1,0 +1,3 @@
+ollama_nodes:
+  # this file contains a list of Ollama servers - any servers you add here will be included in the distribution of prompts
+  - http://localhost:11434
